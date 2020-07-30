@@ -1,8 +1,10 @@
 ### Hi, I'm Eddy Nakamura 👋
 
-- 🔭 I’m currently working on Microsoft as PFE (Premier Field Engineer) / CE (Customer Engineer) and as SDE (Software Development Engineer) in my free time
+- 🔭 I’m currently working @Microsoft as PFE (Premier Field Engineer) / CE (Customer Engineer). In my free time, I work as SDE (Software Development Engineer)
 - 🌱 I’m currently learning C# 9 and Java
 - 👯 I’m looking to collaborate on projects that uses C# as main language
+- 👯 I’m looking to a SDE position
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eddy-nakamura/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=eddynaka&&show_icons=true" />
 
