@@ -5,8 +5,8 @@
 - 👯 I’m looking to collaborate on projects that uses C# as main language
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eddy-nakamura/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=eddynaka&&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddynaka" />
+<img src="https://github-readme-stats.vercel.app/api?username=eddynaka&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddynaka&layout=compact" />
 <!--
 **eddynaka/eddynaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
