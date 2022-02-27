@@ -6,7 +6,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eddy-nakamura/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=eddynaka&&show_icons=true" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddynaka" />
 <!--
 **eddynaka/eddynaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
